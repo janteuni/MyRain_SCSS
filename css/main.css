@@ -1,0 +1,1112 @@
+body {
+  background-color: blue;
+}
+
+.goutte1 {
+  left: 1em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte2 {
+  left: 2em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte3 {
+  left: 3em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte4 {
+  left: 4em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte5 {
+  left: 5em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte6 {
+  left: 6em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte7 {
+  left: 7em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte8 {
+  left: 8em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte9 {
+  left: 9em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte10 {
+  left: 10em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte11 {
+  left: 11em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte12 {
+  left: 12em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte13 {
+  left: 13em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte14 {
+  left: 14em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte15 {
+  left: 15em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte16 {
+  left: 16em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte17 {
+  left: 17em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte18 {
+  left: 18em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte19 {
+  left: 19em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte20 {
+  left: 20em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte21 {
+  left: 21em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte22 {
+  left: 22em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte23 {
+  left: 23em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte24 {
+  left: 24em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte25 {
+  left: 25em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte26 {
+  left: 26em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte27 {
+  left: 27em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte28 {
+  left: 28em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte29 {
+  left: 29em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte30 {
+  left: 30em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte31 {
+  left: 31em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte32 {
+  left: 32em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte33 {
+  left: 33em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte34 {
+  left: 34em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte35 {
+  left: 35em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte36 {
+  left: 36em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte37 {
+  left: 37em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte38 {
+  left: 38em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte39 {
+  left: 39em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte40 {
+  left: 40em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte41 {
+  left: 41em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte42 {
+  left: 42em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte43 {
+  left: 43em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte44 {
+  left: 44em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte45 {
+  left: 45em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte46 {
+  left: 46em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte47 {
+  left: 47em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte48 {
+  left: 48em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte49 {
+  left: 49em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte50 {
+  left: 50em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte51 {
+  left: 51em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte52 {
+  left: 52em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte53 {
+  left: 53em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte54 {
+  left: 54em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte55 {
+  left: 55em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte56 {
+  left: 56em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte57 {
+  left: 57em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte58 {
+  left: 58em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte59 {
+  left: 59em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte60 {
+  left: 60em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte61 {
+  left: 61em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte62 {
+  left: 62em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte63 {
+  left: 63em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte64 {
+  left: 64em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte65 {
+  left: 65em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte66 {
+  left: 66em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte67 {
+  left: 67em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte68 {
+  left: 68em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte69 {
+  left: 69em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte70 {
+  left: 70em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte71 {
+  left: 71em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte72 {
+  left: 72em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte73 {
+  left: 73em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte74 {
+  left: 74em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte75 {
+  left: 75em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte76 {
+  left: 76em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte77 {
+  left: 77em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte78 {
+  left: 78em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte79 {
+  left: 79em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte80 {
+  left: 80em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte81 {
+  left: 81em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte82 {
+  left: 82em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte83 {
+  left: 83em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte84 {
+  left: 84em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte85 {
+  left: 85em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte86 {
+  left: 86em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte87 {
+  left: 87em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte88 {
+  left: 88em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte89 {
+  left: 89em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte90 {
+  left: 90em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte91 {
+  left: 91em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte92 {
+  left: 92em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte93 {
+  left: 93em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte94 {
+  left: 94em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte95 {
+  left: 95em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte96 {
+  left: 96em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte97 {
+  left: 97em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte98 {
+  left: 98em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+.goutte99 {
+  left: 99em;
+  top: 1em;
+  width: 3px;
+  height: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst random(10)s infinite;
+  animation: myfirst random(10)s infinite;
+}
+
+@-webkit-keyframes myfirst {
+  0% {
+    top: 0%;
+  }
+
+  100% {
+    top: 100%;
+  }
+}
+
+@keyframes myfirst {
+  0% {
+    top: 0%;
+  }
+
+  100% {
+    top: 100%;
+  }
+}

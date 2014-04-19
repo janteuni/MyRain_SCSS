@@ -1,0 +1,14 @@
+{
+  "name": "rain",
+  "version": "0.0.0",
+  "description": "a little rain css",
+  "main": "index.js",
+  "repository": "lol",
+  "dependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-contrib-sass": "^0.7.3"
+  }
+}
