@@ -11,6 +11,107 @@ body {
 	height: 100%;
 }
 
+// SCSS FOR zigzig.html
+
+#triangle{
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 0 100px 100px 100px;
+	border-color: transparent #007bff red #007bff ;
+}
+
+#bocal{
+	width: 900px;
+	height: 900px;
+	margin: 0 auto;
+	margin-top: 100px;
+	@include border-radius(450px);
+	background-color: #9D99E3;
+	position: relative;
+}
+
+#socle{
+	position: absolute;
+	height: 50px;
+	width: 800px;
+	margin: 0 auto;
+	bottom: 0px;
+	background-color: white;
+}
+
+#couv{
+	position: absolute;
+	height: 150px;
+	width: 820px;
+	margin: 0 auto;
+	top: 0px;
+	background-color: white;
+}
+
+.wave{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	top: 100px;
+	left: 90px;
+	@include border-radius(100%);
+}
+
+.wave1{
+	position: absolute;
+	width: 140px;
+	height: 150px;
+	background-color: white;
+	top: 90px;
+	left: 160px;
+	@include border-radius(20% 100%);
+}
+
+.wave2{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	background-color: #9D99E3;
+	top: 147px;
+	left: 230px;
+	@include border-radius(50% 100%);
+}
+
+.wave3{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 100px;
+	left: 344px;
+	background-color: white;
+	@include border-radius(100%);
+}
+
+.wave5{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 100px;
+	left: 340px;
+	background-color: white;
+	@include border-radius(100%);
+}
+
+
+.wave4{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	top: 80px;
+	left: 300px;
+	background-color: white;
+	@include border-radius(100%);
+}
+
+//  SCSS FOr index.html
+
 #content{
 	position: absolute;
 	top: 0;
@@ -21,7 +122,7 @@ body {
 }
 
 @while $i < 300 {
-	  .goutte#{$i} {
+	.goutte#{$i} {
 		left: 0em + $i;
 		top: 1em;
 		width: 3px;
@@ -33,8 +134,8 @@ body {
 		$x : random(1100);
 		-webkit-animation: myfirst #{ $x }ms infinite;
 		animation: myfirst #{ $x }ms infinite;
-	}
-	$i: $i + 1 !global;
+}
+$i: $i + 1 !global;
 }
 
 @-webkit-keyframes myfirst

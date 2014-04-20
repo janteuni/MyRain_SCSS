@@ -23,7 +23,7 @@ module.exports = function(grunt) {
 				files: ['js/*.js']
 			},
 			html: {
-				files: ['index.html']
+				files: ['*.html']
 			}
 		},
 		sass: {
