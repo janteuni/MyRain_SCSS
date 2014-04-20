@@ -17,15 +17,11 @@ body {
 		@include border-radius(5px);
 		background-color: rgba(white, .9);
 		position: absolute;
-		@if ($j > 7){
-			$j: 0;
-		}
 		$x : random(900);
 		-webkit-animation: myfirst #{ $x }ms infinite;
 		animation: myfirst #{ $x }ms infinite;
-		$j: $j + 1;
 	}
-	$i: $i + 1;
+	$i: $i + 1 !global;
 }
 
 @-webkit-keyframes myfirst

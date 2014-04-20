@@ -5,992 +5,1289 @@ body {
 .goutte1 {
   left: 1em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 91ms infinite;
-  animation: myfirst 91ms infinite; }
+  -webkit-animation: myfirst 656ms infinite;
+  animation: myfirst 656ms infinite; }
 
 .goutte2 {
   left: 2em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 223ms infinite;
-  animation: myfirst 223ms infinite; }
+  -webkit-animation: myfirst 693ms infinite;
+  animation: myfirst 693ms infinite; }
 
 .goutte3 {
   left: 3em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 779ms infinite;
-  animation: myfirst 779ms infinite; }
+  -webkit-animation: myfirst 751ms infinite;
+  animation: myfirst 751ms infinite; }
 
 .goutte4 {
   left: 4em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 733ms infinite;
-  animation: myfirst 733ms infinite; }
+  -webkit-animation: myfirst 321ms infinite;
+  animation: myfirst 321ms infinite; }
 
 .goutte5 {
   left: 5em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 401ms infinite;
-  animation: myfirst 401ms infinite; }
+  -webkit-animation: myfirst 299ms infinite;
+  animation: myfirst 299ms infinite; }
 
 .goutte6 {
   left: 6em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 252ms infinite;
-  animation: myfirst 252ms infinite; }
+  -webkit-animation: myfirst 88ms infinite;
+  animation: myfirst 88ms infinite; }
 
 .goutte7 {
   left: 7em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 503ms infinite;
-  animation: myfirst 503ms infinite; }
+  -webkit-animation: myfirst 126ms infinite;
+  animation: myfirst 126ms infinite; }
 
 .goutte8 {
   left: 8em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 848ms infinite;
-  animation: myfirst 848ms infinite; }
+  -webkit-animation: myfirst 78ms infinite;
+  animation: myfirst 78ms infinite; }
 
 .goutte9 {
   left: 9em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 316ms infinite;
-  animation: myfirst 316ms infinite; }
+  -webkit-animation: myfirst 17ms infinite;
+  animation: myfirst 17ms infinite; }
 
 .goutte10 {
   left: 10em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 351ms infinite;
+  animation: myfirst 351ms infinite; }
+
+.goutte11 {
+  left: 11em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 791ms infinite;
+  animation: myfirst 791ms infinite; }
+
+.goutte12 {
+  left: 12em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 571ms infinite;
+  animation: myfirst 571ms infinite; }
+
+.goutte13 {
+  left: 13em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 883ms infinite;
+  animation: myfirst 883ms infinite; }
+
+.goutte14 {
+  left: 14em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 805ms infinite;
+  animation: myfirst 805ms infinite; }
+
+.goutte15 {
+  left: 15em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   -webkit-animation: myfirst 15ms infinite;
   animation: myfirst 15ms infinite; }
 
-.goutte11 {
-  left: 11em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 796ms infinite;
-  animation: myfirst 796ms infinite; }
-
-.goutte12 {
-  left: 12em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 348ms infinite;
-  animation: myfirst 348ms infinite; }
-
-.goutte13 {
-  left: 13em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 850ms infinite;
-  animation: myfirst 850ms infinite; }
-
-.goutte14 {
-  left: 14em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 666ms infinite;
-  animation: myfirst 666ms infinite; }
-
-.goutte15 {
-  left: 15em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 368ms infinite;
-  animation: myfirst 368ms infinite; }
-
 .goutte16 {
   left: 16em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 554ms infinite;
-  animation: myfirst 554ms infinite; }
+  -webkit-animation: myfirst 349ms infinite;
+  animation: myfirst 349ms infinite; }
 
 .goutte17 {
   left: 17em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 586ms infinite;
-  animation: myfirst 586ms infinite; }
+  -webkit-animation: myfirst 284ms infinite;
+  animation: myfirst 284ms infinite; }
 
 .goutte18 {
   left: 18em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 467ms infinite;
-  animation: myfirst 467ms infinite; }
-
-.goutte19 {
-  left: 19em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 303ms infinite;
-  animation: myfirst 303ms infinite; }
-
-.goutte20 {
-  left: 20em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 13ms infinite;
-  animation: myfirst 13ms infinite; }
-
-.goutte21 {
-  left: 21em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 551ms infinite;
-  animation: myfirst 551ms infinite; }
-
-.goutte22 {
-  left: 22em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 766ms infinite;
-  animation: myfirst 766ms infinite; }
-
-.goutte23 {
-  left: 23em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 568ms infinite;
-  animation: myfirst 568ms infinite; }
-
-.goutte24 {
-  left: 24em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 644ms infinite;
-  animation: myfirst 644ms infinite; }
-
-.goutte25 {
-  left: 25em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   -webkit-animation: myfirst 81ms infinite;
   animation: myfirst 81ms infinite; }
 
+.goutte19 {
+  left: 19em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 891ms infinite;
+  animation: myfirst 891ms infinite; }
+
+.goutte20 {
+  left: 20em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 405ms infinite;
+  animation: myfirst 405ms infinite; }
+
+.goutte21 {
+  left: 21em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 275ms infinite;
+  animation: myfirst 275ms infinite; }
+
+.goutte22 {
+  left: 22em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 685ms infinite;
+  animation: myfirst 685ms infinite; }
+
+.goutte23 {
+  left: 23em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 637ms infinite;
+  animation: myfirst 637ms infinite; }
+
+.goutte24 {
+  left: 24em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 19ms infinite;
+  animation: myfirst 19ms infinite; }
+
+.goutte25 {
+  left: 25em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 444ms infinite;
+  animation: myfirst 444ms infinite; }
+
 .goutte26 {
   left: 26em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 390ms infinite;
-  animation: myfirst 390ms infinite; }
+  -webkit-animation: myfirst 249ms infinite;
+  animation: myfirst 249ms infinite; }
 
 .goutte27 {
   left: 27em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 830ms infinite;
-  animation: myfirst 830ms infinite; }
+  -webkit-animation: myfirst 793ms infinite;
+  animation: myfirst 793ms infinite; }
 
 .goutte28 {
   left: 28em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 735ms infinite;
-  animation: myfirst 735ms infinite; }
+  -webkit-animation: myfirst 573ms infinite;
+  animation: myfirst 573ms infinite; }
 
 .goutte29 {
   left: 29em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 647ms infinite;
-  animation: myfirst 647ms infinite; }
+  -webkit-animation: myfirst 791ms infinite;
+  animation: myfirst 791ms infinite; }
 
 .goutte30 {
   left: 30em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 628ms infinite;
-  animation: myfirst 628ms infinite; }
+  -webkit-animation: myfirst 867ms infinite;
+  animation: myfirst 867ms infinite; }
 
 .goutte31 {
   left: 31em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 872ms infinite;
-  animation: myfirst 872ms infinite; }
+  -webkit-animation: myfirst 585ms infinite;
+  animation: myfirst 585ms infinite; }
 
 .goutte32 {
   left: 32em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 361ms infinite;
-  animation: myfirst 361ms infinite; }
-
-.goutte33 {
-  left: 33em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 98ms infinite;
-  animation: myfirst 98ms infinite; }
-
-.goutte34 {
-  left: 34em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 79ms infinite;
-  animation: myfirst 79ms infinite; }
-
-.goutte35 {
-  left: 35em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 565ms infinite;
-  animation: myfirst 565ms infinite; }
-
-.goutte36 {
-  left: 36em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 208ms infinite;
-  animation: myfirst 208ms infinite; }
-
-.goutte37 {
-  left: 37em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 354ms infinite;
-  animation: myfirst 354ms infinite; }
-
-.goutte38 {
-  left: 38em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 560ms infinite;
-  animation: myfirst 560ms infinite; }
-
-.goutte39 {
-  left: 39em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 76ms infinite;
-  animation: myfirst 76ms infinite; }
-
-.goutte40 {
-  left: 40em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 136ms infinite;
-  animation: myfirst 136ms infinite; }
-
-.goutte41 {
-  left: 41em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 27ms infinite;
-  animation: myfirst 27ms infinite; }
-
-.goutte42 {
-  left: 42em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 54ms infinite;
-  animation: myfirst 54ms infinite; }
-
-.goutte43 {
-  left: 43em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 179ms infinite;
-  animation: myfirst 179ms infinite; }
-
-.goutte44 {
-  left: 44em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 79ms infinite;
-  animation: myfirst 79ms infinite; }
-
-.goutte45 {
-  left: 45em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 871ms infinite;
-  animation: myfirst 871ms infinite; }
-
-.goutte46 {
-  left: 46em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 37ms infinite;
-  animation: myfirst 37ms infinite; }
-
-.goutte47 {
-  left: 47em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 524ms infinite;
-  animation: myfirst 524ms infinite; }
-
-.goutte48 {
-  left: 48em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   -webkit-animation: myfirst 597ms infinite;
   animation: myfirst 597ms infinite; }
 
-.goutte49 {
-  left: 49em;
+.goutte33 {
+  left: 33em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 245ms infinite;
+  animation: myfirst 245ms infinite; }
+
+.goutte34 {
+  left: 34em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 275ms infinite;
+  animation: myfirst 275ms infinite; }
+
+.goutte35 {
+  left: 35em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 184ms infinite;
+  animation: myfirst 184ms infinite; }
+
+.goutte36 {
+  left: 36em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   -webkit-animation: myfirst 814ms infinite;
   animation: myfirst 814ms infinite; }
 
-.goutte50 {
-  left: 50em;
+.goutte37 {
+  left: 37em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 491ms infinite;
-  animation: myfirst 491ms infinite; }
+  -webkit-animation: myfirst 789ms infinite;
+  animation: myfirst 789ms infinite; }
 
-.goutte51 {
-  left: 51em;
+.goutte38 {
+  left: 38em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 116ms infinite;
-  animation: myfirst 116ms infinite; }
+  -webkit-animation: myfirst 441ms infinite;
+  animation: myfirst 441ms infinite; }
 
-.goutte52 {
-  left: 52em;
+.goutte39 {
+  left: 39em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 410ms infinite;
-  animation: myfirst 410ms infinite; }
+  -webkit-animation: myfirst 358ms infinite;
+  animation: myfirst 358ms infinite; }
 
-.goutte53 {
-  left: 53em;
+.goutte40 {
+  left: 40em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 279ms infinite;
-  animation: myfirst 279ms infinite; }
+  -webkit-animation: myfirst 633ms infinite;
+  animation: myfirst 633ms infinite; }
 
-.goutte54 {
-  left: 54em;
+.goutte41 {
+  left: 41em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 281ms infinite;
+  animation: myfirst 281ms infinite; }
+
+.goutte42 {
+  left: 42em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 857ms infinite;
+  animation: myfirst 857ms infinite; }
+
+.goutte43 {
+  left: 43em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   -webkit-animation: myfirst 122ms infinite;
   animation: myfirst 122ms infinite; }
 
+.goutte44 {
+  left: 44em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 668ms infinite;
+  animation: myfirst 668ms infinite; }
+
+.goutte45 {
+  left: 45em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 470ms infinite;
+  animation: myfirst 470ms infinite; }
+
+.goutte46 {
+  left: 46em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 563ms infinite;
+  animation: myfirst 563ms infinite; }
+
+.goutte47 {
+  left: 47em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 259ms infinite;
+  animation: myfirst 259ms infinite; }
+
+.goutte48 {
+  left: 48em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 677ms infinite;
+  animation: myfirst 677ms infinite; }
+
+.goutte49 {
+  left: 49em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 565ms infinite;
+  animation: myfirst 565ms infinite; }
+
+.goutte50 {
+  left: 50em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 252ms infinite;
+  animation: myfirst 252ms infinite; }
+
+.goutte51 {
+  left: 51em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 61ms infinite;
+  animation: myfirst 61ms infinite; }
+
+.goutte52 {
+  left: 52em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 599ms infinite;
+  animation: myfirst 599ms infinite; }
+
+.goutte53 {
+  left: 53em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 210ms infinite;
+  animation: myfirst 210ms infinite; }
+
+.goutte54 {
+  left: 54em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 412ms infinite;
+  animation: myfirst 412ms infinite; }
+
 .goutte55 {
   left: 55em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 427ms infinite;
-  animation: myfirst 427ms infinite; }
+  -webkit-animation: myfirst 551ms infinite;
+  animation: myfirst 551ms infinite; }
 
 .goutte56 {
   left: 56em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 239ms infinite;
-  animation: myfirst 239ms infinite; }
+  -webkit-animation: myfirst 715ms infinite;
+  animation: myfirst 715ms infinite; }
 
 .goutte57 {
   left: 57em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 372ms infinite;
-  animation: myfirst 372ms infinite; }
+  -webkit-animation: myfirst 628ms infinite;
+  animation: myfirst 628ms infinite; }
 
 .goutte58 {
   left: 58em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 438ms infinite;
-  animation: myfirst 438ms infinite; }
+  -webkit-animation: myfirst 483ms infinite;
+  animation: myfirst 483ms infinite; }
 
 .goutte59 {
   left: 59em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 841ms infinite;
-  animation: myfirst 841ms infinite; }
+  -webkit-animation: myfirst 435ms infinite;
+  animation: myfirst 435ms infinite; }
 
 .goutte60 {
   left: 60em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 430ms infinite;
-  animation: myfirst 430ms infinite; }
+  -webkit-animation: myfirst 692ms infinite;
+  animation: myfirst 692ms infinite; }
 
 .goutte61 {
   left: 61em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 774ms infinite;
-  animation: myfirst 774ms infinite; }
+  -webkit-animation: myfirst 84ms infinite;
+  animation: myfirst 84ms infinite; }
 
 .goutte62 {
   left: 62em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 39ms infinite;
-  animation: myfirst 39ms infinite; }
+  -webkit-animation: myfirst 111ms infinite;
+  animation: myfirst 111ms infinite; }
 
 .goutte63 {
   left: 63em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 865ms infinite;
-  animation: myfirst 865ms infinite; }
+  -webkit-animation: myfirst 25ms infinite;
+  animation: myfirst 25ms infinite; }
 
 .goutte64 {
   left: 64em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 371ms infinite;
-  animation: myfirst 371ms infinite; }
+  -webkit-animation: myfirst 479ms infinite;
+  animation: myfirst 479ms infinite; }
 
 .goutte65 {
   left: 65em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 238ms infinite;
-  animation: myfirst 238ms infinite; }
+  -webkit-animation: myfirst 651ms infinite;
+  animation: myfirst 651ms infinite; }
 
 .goutte66 {
   left: 66em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 47ms infinite;
-  animation: myfirst 47ms infinite; }
+  -webkit-animation: myfirst 506ms infinite;
+  animation: myfirst 506ms infinite; }
 
 .goutte67 {
   left: 67em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 107ms infinite;
-  animation: myfirst 107ms infinite; }
+  -webkit-animation: myfirst 95ms infinite;
+  animation: myfirst 95ms infinite; }
 
 .goutte68 {
   left: 68em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 67ms infinite;
-  animation: myfirst 67ms infinite; }
+  -webkit-animation: myfirst 674ms infinite;
+  animation: myfirst 674ms infinite; }
 
 .goutte69 {
   left: 69em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 522ms infinite;
-  animation: myfirst 522ms infinite; }
-
-.goutte70 {
-  left: 70em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 278ms infinite;
-  animation: myfirst 278ms infinite; }
-
-.goutte71 {
-  left: 71em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 680ms infinite;
-  animation: myfirst 680ms infinite; }
-
-.goutte72 {
-  left: 72em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 858ms infinite;
-  animation: myfirst 858ms infinite; }
-
-.goutte73 {
-  left: 73em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 21ms infinite;
-  animation: myfirst 21ms infinite; }
-
-.goutte74 {
-  left: 74em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 343ms infinite;
-  animation: myfirst 343ms infinite; }
-
-.goutte75 {
-  left: 75em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 611ms infinite;
-  animation: myfirst 611ms infinite; }
-
-.goutte76 {
-  left: 76em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 629ms infinite;
-  animation: myfirst 629ms infinite; }
-
-.goutte77 {
-  left: 77em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  -webkit-animation: myfirst 495ms infinite;
-  animation: myfirst 495ms infinite; }
-
-.goutte78 {
-  left: 78em;
-  top: 1em;
-  width: 3px;
-  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
   -webkit-animation: myfirst 254ms infinite;
   animation: myfirst 254ms infinite; }
 
+.goutte70 {
+  left: 70em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 756ms infinite;
+  animation: myfirst 756ms infinite; }
+
+.goutte71 {
+  left: 71em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 219ms infinite;
+  animation: myfirst 219ms infinite; }
+
+.goutte72 {
+  left: 72em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 349ms infinite;
+  animation: myfirst 349ms infinite; }
+
+.goutte73 {
+  left: 73em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 98ms infinite;
+  animation: myfirst 98ms infinite; }
+
+.goutte74 {
+  left: 74em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 756ms infinite;
+  animation: myfirst 756ms infinite; }
+
+.goutte75 {
+  left: 75em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 296ms infinite;
+  animation: myfirst 296ms infinite; }
+
+.goutte76 {
+  left: 76em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 15ms infinite;
+  animation: myfirst 15ms infinite; }
+
+.goutte77 {
+  left: 77em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 270ms infinite;
+  animation: myfirst 270ms infinite; }
+
+.goutte78 {
+  left: 78em;
+  top: 1em;
+  width: 5px;
+  height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  -webkit-animation: myfirst 701ms infinite;
+  animation: myfirst 701ms infinite; }
+
 .goutte79 {
   left: 79em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 868ms infinite;
-  animation: myfirst 868ms infinite; }
+  -webkit-animation: myfirst 769ms infinite;
+  animation: myfirst 769ms infinite; }
 
 .goutte80 {
   left: 80em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 447ms infinite;
-  animation: myfirst 447ms infinite; }
+  -webkit-animation: myfirst 861ms infinite;
+  animation: myfirst 861ms infinite; }
 
 .goutte81 {
   left: 81em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 491ms infinite;
-  animation: myfirst 491ms infinite; }
+  -webkit-animation: myfirst 249ms infinite;
+  animation: myfirst 249ms infinite; }
 
 .goutte82 {
   left: 82em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 539ms infinite;
-  animation: myfirst 539ms infinite; }
+  -webkit-animation: myfirst 282ms infinite;
+  animation: myfirst 282ms infinite; }
 
 .goutte83 {
   left: 83em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 148ms infinite;
-  animation: myfirst 148ms infinite; }
+  -webkit-animation: myfirst 7ms infinite;
+  animation: myfirst 7ms infinite; }
 
 .goutte84 {
   left: 84em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 199ms infinite;
-  animation: myfirst 199ms infinite; }
+  -webkit-animation: myfirst 517ms infinite;
+  animation: myfirst 517ms infinite; }
 
 .goutte85 {
   left: 85em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 212ms infinite;
-  animation: myfirst 212ms infinite; }
+  -webkit-animation: myfirst 687ms infinite;
+  animation: myfirst 687ms infinite; }
 
 .goutte86 {
   left: 86em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 747ms infinite;
-  animation: myfirst 747ms infinite; }
+  -webkit-animation: myfirst 454ms infinite;
+  animation: myfirst 454ms infinite; }
 
 .goutte87 {
   left: 87em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 448ms infinite;
-  animation: myfirst 448ms infinite; }
+  -webkit-animation: myfirst 282ms infinite;
+  animation: myfirst 282ms infinite; }
 
 .goutte88 {
   left: 88em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 811ms infinite;
-  animation: myfirst 811ms infinite; }
+  -webkit-animation: myfirst 580ms infinite;
+  animation: myfirst 580ms infinite; }
 
 .goutte89 {
   left: 89em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 392ms infinite;
-  animation: myfirst 392ms infinite; }
+  -webkit-animation: myfirst 427ms infinite;
+  animation: myfirst 427ms infinite; }
 
 .goutte90 {
   left: 90em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 809ms infinite;
-  animation: myfirst 809ms infinite; }
+  -webkit-animation: myfirst 651ms infinite;
+  animation: myfirst 651ms infinite; }
 
 .goutte91 {
   left: 91em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 220ms infinite;
-  animation: myfirst 220ms infinite; }
+  -webkit-animation: myfirst 108ms infinite;
+  animation: myfirst 108ms infinite; }
 
 .goutte92 {
   left: 92em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 187ms infinite;
-  animation: myfirst 187ms infinite; }
+  -webkit-animation: myfirst 20ms infinite;
+  animation: myfirst 20ms infinite; }
 
 .goutte93 {
   left: 93em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 625ms infinite;
-  animation: myfirst 625ms infinite; }
+  -webkit-animation: myfirst 660ms infinite;
+  animation: myfirst 660ms infinite; }
 
 .goutte94 {
   left: 94em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 862ms infinite;
-  animation: myfirst 862ms infinite; }
+  -webkit-animation: myfirst 649ms infinite;
+  animation: myfirst 649ms infinite; }
 
 .goutte95 {
   left: 95em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 725ms infinite;
-  animation: myfirst 725ms infinite; }
+  -webkit-animation: myfirst 325ms infinite;
+  animation: myfirst 325ms infinite; }
 
 .goutte96 {
   left: 96em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 788ms infinite;
-  animation: myfirst 788ms infinite; }
+  -webkit-animation: myfirst 616ms infinite;
+  animation: myfirst 616ms infinite; }
 
 .goutte97 {
   left: 97em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 738ms infinite;
-  animation: myfirst 738ms infinite; }
+  -webkit-animation: myfirst 697ms infinite;
+  animation: myfirst 697ms infinite; }
 
 .goutte98 {
   left: 98em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 652ms infinite;
-  animation: myfirst 652ms infinite; }
+  -webkit-animation: myfirst 243ms infinite;
+  animation: myfirst 243ms infinite; }
 
 .goutte99 {
   left: 99em;
   top: 1em;
-  width: 3px;
+  width: 5px;
   height: 15px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst 481ms infinite;
-  animation: myfirst 481ms infinite; }
+  -webkit-animation: myfirst 808ms infinite;
+  animation: myfirst 808ms infinite; }
 
 @-webkit-keyframes myfirst {
   0% {
