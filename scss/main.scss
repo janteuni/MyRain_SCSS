@@ -1,23 +1,36 @@
 @import "compass/css3";
 
 $i: 1;
-$j: 1;
+
+html {
+	height: 100%;
+}
 
 body {
 	overflow: hidden;
-	background-color: rgba(blue, .4);
+	height: 100%;
 }
 
-@while $i < 100 {
+#content{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	@include background-image(linear-gradient(rgba(blue, .4), white 40%, white));
+}
+
+@while $i < 300 {
 	  .goutte#{$i} {
 		left: 0em + $i;
 		top: 1em;
-		width: 5px;
-		height: 15px;
-		@include border-radius(5px);
+		width: 3px;
+		height: 70px;
+		@include border-radius(3px);
 		background-color: rgba(white, .9);
+		@include background(linear-gradient(bottom, rgba(black, .2), rgba(white, 0.1)));
 		position: absolute;
-		$x : random(900);
+		$x : random(1100);
 		-webkit-animation: myfirst #{ $x }ms infinite;
 		animation: myfirst #{ $x }ms infinite;
 	}

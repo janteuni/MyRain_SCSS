@@ -18,6 +18,12 @@ module.exports = function(grunt) {
 			css: {
 				files: ['scss/*.scss'],
 				tasks: ['sass']
+			},
+			js: {
+				files: ['js/*.js']
+			},
+			html: {
+				files: ['index.html']
 			}
 		},
 		sass: {
