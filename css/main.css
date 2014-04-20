@@ -1,6 +1,6 @@
 body {
-  background-color: blue;
-}
+  overflow: hidden;
+  background-color: rgba(0, 0, 255, 0.4); }
 
 .goutte1 {
   left: 1em;
@@ -9,9 +9,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 529ms infinite;
+  animation: myfirst 529ms infinite; }
 
 .goutte2 {
   left: 2em;
@@ -20,9 +19,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 801ms infinite;
+  animation: myfirst 801ms infinite; }
 
 .goutte3 {
   left: 3em;
@@ -31,9 +29,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 11ms infinite;
+  animation: myfirst 11ms infinite; }
 
 .goutte4 {
   left: 4em;
@@ -42,9 +39,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 274ms infinite;
+  animation: myfirst 274ms infinite; }
 
 .goutte5 {
   left: 5em;
@@ -53,9 +49,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 718ms infinite;
+  animation: myfirst 718ms infinite; }
 
 .goutte6 {
   left: 6em;
@@ -64,9 +59,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 376ms infinite;
+  animation: myfirst 376ms infinite; }
 
 .goutte7 {
   left: 7em;
@@ -75,9 +69,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 667ms infinite;
+  animation: myfirst 667ms infinite; }
 
 .goutte8 {
   left: 8em;
@@ -86,9 +79,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 889ms infinite;
+  animation: myfirst 889ms infinite; }
 
 .goutte9 {
   left: 9em;
@@ -97,9 +89,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 695ms infinite;
+  animation: myfirst 695ms infinite; }
 
 .goutte10 {
   left: 10em;
@@ -108,9 +99,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 160ms infinite;
+  animation: myfirst 160ms infinite; }
 
 .goutte11 {
   left: 11em;
@@ -119,9 +109,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 604ms infinite;
+  animation: myfirst 604ms infinite; }
 
 .goutte12 {
   left: 12em;
@@ -130,9 +119,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 391ms infinite;
+  animation: myfirst 391ms infinite; }
 
 .goutte13 {
   left: 13em;
@@ -141,9 +129,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 477ms infinite;
+  animation: myfirst 477ms infinite; }
 
 .goutte14 {
   left: 14em;
@@ -152,9 +139,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 227ms infinite;
+  animation: myfirst 227ms infinite; }
 
 .goutte15 {
   left: 15em;
@@ -163,9 +149,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 887ms infinite;
+  animation: myfirst 887ms infinite; }
 
 .goutte16 {
   left: 16em;
@@ -174,9 +159,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 60ms infinite;
+  animation: myfirst 60ms infinite; }
 
 .goutte17 {
   left: 17em;
@@ -185,9 +169,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 714ms infinite;
+  animation: myfirst 714ms infinite; }
 
 .goutte18 {
   left: 18em;
@@ -196,9 +179,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 407ms infinite;
+  animation: myfirst 407ms infinite; }
 
 .goutte19 {
   left: 19em;
@@ -207,9 +189,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 825ms infinite;
+  animation: myfirst 825ms infinite; }
 
 .goutte20 {
   left: 20em;
@@ -218,9 +199,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 895ms infinite;
+  animation: myfirst 895ms infinite; }
 
 .goutte21 {
   left: 21em;
@@ -229,9 +209,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 357ms infinite;
+  animation: myfirst 357ms infinite; }
 
 .goutte22 {
   left: 22em;
@@ -240,9 +219,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 61ms infinite;
+  animation: myfirst 61ms infinite; }
 
 .goutte23 {
   left: 23em;
@@ -251,9 +229,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 780ms infinite;
+  animation: myfirst 780ms infinite; }
 
 .goutte24 {
   left: 24em;
@@ -262,9 +239,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 348ms infinite;
+  animation: myfirst 348ms infinite; }
 
 .goutte25 {
   left: 25em;
@@ -273,9 +249,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 103ms infinite;
+  animation: myfirst 103ms infinite; }
 
 .goutte26 {
   left: 26em;
@@ -284,9 +259,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 614ms infinite;
+  animation: myfirst 614ms infinite; }
 
 .goutte27 {
   left: 27em;
@@ -295,9 +269,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 343ms infinite;
+  animation: myfirst 343ms infinite; }
 
 .goutte28 {
   left: 28em;
@@ -306,9 +279,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 444ms infinite;
+  animation: myfirst 444ms infinite; }
 
 .goutte29 {
   left: 29em;
@@ -317,9 +289,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 873ms infinite;
+  animation: myfirst 873ms infinite; }
 
 .goutte30 {
   left: 30em;
@@ -328,9 +299,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 778ms infinite;
+  animation: myfirst 778ms infinite; }
 
 .goutte31 {
   left: 31em;
@@ -339,9 +309,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 130ms infinite;
+  animation: myfirst 130ms infinite; }
 
 .goutte32 {
   left: 32em;
@@ -350,9 +319,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 525ms infinite;
+  animation: myfirst 525ms infinite; }
 
 .goutte33 {
   left: 33em;
@@ -361,9 +329,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 303ms infinite;
+  animation: myfirst 303ms infinite; }
 
 .goutte34 {
   left: 34em;
@@ -372,9 +339,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 275ms infinite;
+  animation: myfirst 275ms infinite; }
 
 .goutte35 {
   left: 35em;
@@ -383,9 +349,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 737ms infinite;
+  animation: myfirst 737ms infinite; }
 
 .goutte36 {
   left: 36em;
@@ -394,9 +359,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 456ms infinite;
+  animation: myfirst 456ms infinite; }
 
 .goutte37 {
   left: 37em;
@@ -405,9 +369,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 158ms infinite;
+  animation: myfirst 158ms infinite; }
 
 .goutte38 {
   left: 38em;
@@ -416,9 +379,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 603ms infinite;
+  animation: myfirst 603ms infinite; }
 
 .goutte39 {
   left: 39em;
@@ -427,9 +389,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 464ms infinite;
+  animation: myfirst 464ms infinite; }
 
 .goutte40 {
   left: 40em;
@@ -438,9 +399,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 731ms infinite;
+  animation: myfirst 731ms infinite; }
 
 .goutte41 {
   left: 41em;
@@ -449,9 +409,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 577ms infinite;
+  animation: myfirst 577ms infinite; }
 
 .goutte42 {
   left: 42em;
@@ -460,9 +419,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 686ms infinite;
+  animation: myfirst 686ms infinite; }
 
 .goutte43 {
   left: 43em;
@@ -471,9 +429,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 582ms infinite;
+  animation: myfirst 582ms infinite; }
 
 .goutte44 {
   left: 44em;
@@ -482,9 +439,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 237ms infinite;
+  animation: myfirst 237ms infinite; }
 
 .goutte45 {
   left: 45em;
@@ -493,9 +449,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 363ms infinite;
+  animation: myfirst 363ms infinite; }
 
 .goutte46 {
   left: 46em;
@@ -504,9 +459,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 85ms infinite;
+  animation: myfirst 85ms infinite; }
 
 .goutte47 {
   left: 47em;
@@ -515,9 +469,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 666ms infinite;
+  animation: myfirst 666ms infinite; }
 
 .goutte48 {
   left: 48em;
@@ -526,9 +479,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 267ms infinite;
+  animation: myfirst 267ms infinite; }
 
 .goutte49 {
   left: 49em;
@@ -537,9 +489,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 494ms infinite;
+  animation: myfirst 494ms infinite; }
 
 .goutte50 {
   left: 50em;
@@ -548,9 +499,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 782ms infinite;
+  animation: myfirst 782ms infinite; }
 
 .goutte51 {
   left: 51em;
@@ -559,9 +509,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 828ms infinite;
+  animation: myfirst 828ms infinite; }
 
 .goutte52 {
   left: 52em;
@@ -570,9 +519,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 642ms infinite;
+  animation: myfirst 642ms infinite; }
 
 .goutte53 {
   left: 53em;
@@ -581,9 +529,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 900ms infinite;
+  animation: myfirst 900ms infinite; }
 
 .goutte54 {
   left: 54em;
@@ -592,9 +539,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 155ms infinite;
+  animation: myfirst 155ms infinite; }
 
 .goutte55 {
   left: 55em;
@@ -603,9 +549,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 297ms infinite;
+  animation: myfirst 297ms infinite; }
 
 .goutte56 {
   left: 56em;
@@ -614,9 +559,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 862ms infinite;
+  animation: myfirst 862ms infinite; }
 
 .goutte57 {
   left: 57em;
@@ -625,9 +569,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 33ms infinite;
+  animation: myfirst 33ms infinite; }
 
 .goutte58 {
   left: 58em;
@@ -636,9 +579,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 216ms infinite;
+  animation: myfirst 216ms infinite; }
 
 .goutte59 {
   left: 59em;
@@ -647,9 +589,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 743ms infinite;
+  animation: myfirst 743ms infinite; }
 
 .goutte60 {
   left: 60em;
@@ -658,9 +599,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 25ms infinite;
+  animation: myfirst 25ms infinite; }
 
 .goutte61 {
   left: 61em;
@@ -669,9 +609,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 170ms infinite;
+  animation: myfirst 170ms infinite; }
 
 .goutte62 {
   left: 62em;
@@ -680,9 +619,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 794ms infinite;
+  animation: myfirst 794ms infinite; }
 
 .goutte63 {
   left: 63em;
@@ -691,9 +629,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 438ms infinite;
+  animation: myfirst 438ms infinite; }
 
 .goutte64 {
   left: 64em;
@@ -702,9 +639,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 604ms infinite;
+  animation: myfirst 604ms infinite; }
 
 .goutte65 {
   left: 65em;
@@ -713,9 +649,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 438ms infinite;
+  animation: myfirst 438ms infinite; }
 
 .goutte66 {
   left: 66em;
@@ -724,9 +659,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 95ms infinite;
+  animation: myfirst 95ms infinite; }
 
 .goutte67 {
   left: 67em;
@@ -735,9 +669,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 135ms infinite;
+  animation: myfirst 135ms infinite; }
 
 .goutte68 {
   left: 68em;
@@ -746,9 +679,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 250ms infinite;
+  animation: myfirst 250ms infinite; }
 
 .goutte69 {
   left: 69em;
@@ -757,9 +689,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 15ms infinite;
+  animation: myfirst 15ms infinite; }
 
 .goutte70 {
   left: 70em;
@@ -768,9 +699,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 377ms infinite;
+  animation: myfirst 377ms infinite; }
 
 .goutte71 {
   left: 71em;
@@ -779,9 +709,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 312ms infinite;
+  animation: myfirst 312ms infinite; }
 
 .goutte72 {
   left: 72em;
@@ -790,9 +719,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 152ms infinite;
+  animation: myfirst 152ms infinite; }
 
 .goutte73 {
   left: 73em;
@@ -801,9 +729,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 706ms infinite;
+  animation: myfirst 706ms infinite; }
 
 .goutte74 {
   left: 74em;
@@ -812,9 +739,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 338ms infinite;
+  animation: myfirst 338ms infinite; }
 
 .goutte75 {
   left: 75em;
@@ -823,9 +749,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 168ms infinite;
+  animation: myfirst 168ms infinite; }
 
 .goutte76 {
   left: 76em;
@@ -834,9 +759,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 274ms infinite;
+  animation: myfirst 274ms infinite; }
 
 .goutte77 {
   left: 77em;
@@ -845,9 +769,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 200ms infinite;
+  animation: myfirst 200ms infinite; }
 
 .goutte78 {
   left: 78em;
@@ -856,9 +779,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 74ms infinite;
+  animation: myfirst 74ms infinite; }
 
 .goutte79 {
   left: 79em;
@@ -867,9 +789,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 668ms infinite;
+  animation: myfirst 668ms infinite; }
 
 .goutte80 {
   left: 80em;
@@ -878,9 +799,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 64ms infinite;
+  animation: myfirst 64ms infinite; }
 
 .goutte81 {
   left: 81em;
@@ -889,9 +809,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 47ms infinite;
+  animation: myfirst 47ms infinite; }
 
 .goutte82 {
   left: 82em;
@@ -900,9 +819,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 778ms infinite;
+  animation: myfirst 778ms infinite; }
 
 .goutte83 {
   left: 83em;
@@ -911,9 +829,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 834ms infinite;
+  animation: myfirst 834ms infinite; }
 
 .goutte84 {
   left: 84em;
@@ -922,9 +839,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 472ms infinite;
+  animation: myfirst 472ms infinite; }
 
 .goutte85 {
   left: 85em;
@@ -933,9 +849,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 401ms infinite;
+  animation: myfirst 401ms infinite; }
 
 .goutte86 {
   left: 86em;
@@ -944,9 +859,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 899ms infinite;
+  animation: myfirst 899ms infinite; }
 
 .goutte87 {
   left: 87em;
@@ -955,9 +869,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 321ms infinite;
+  animation: myfirst 321ms infinite; }
 
 .goutte88 {
   left: 88em;
@@ -966,9 +879,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 282ms infinite;
+  animation: myfirst 282ms infinite; }
 
 .goutte89 {
   left: 89em;
@@ -977,9 +889,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 869ms infinite;
+  animation: myfirst 869ms infinite; }
 
 .goutte90 {
   left: 90em;
@@ -988,9 +899,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 384ms infinite;
+  animation: myfirst 384ms infinite; }
 
 .goutte91 {
   left: 91em;
@@ -999,9 +909,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 634ms infinite;
+  animation: myfirst 634ms infinite; }
 
 .goutte92 {
   left: 92em;
@@ -1010,9 +919,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 462ms infinite;
+  animation: myfirst 462ms infinite; }
 
 .goutte93 {
   left: 93em;
@@ -1021,9 +929,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 212ms infinite;
+  animation: myfirst 212ms infinite; }
 
 .goutte94 {
   left: 94em;
@@ -1032,9 +939,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 125ms infinite;
+  animation: myfirst 125ms infinite; }
 
 .goutte95 {
   left: 95em;
@@ -1043,9 +949,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 657ms infinite;
+  animation: myfirst 657ms infinite; }
 
 .goutte96 {
   left: 96em;
@@ -1054,9 +959,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 216ms infinite;
+  animation: myfirst 216ms infinite; }
 
 .goutte97 {
   left: 97em;
@@ -1065,9 +969,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 828ms infinite;
+  animation: myfirst 828ms infinite; }
 
 .goutte98 {
   left: 98em;
@@ -1076,9 +979,8 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 485ms infinite;
+  animation: myfirst 485ms infinite; }
 
 .goutte99 {
   left: 99em;
@@ -1087,26 +989,18 @@ body {
   height: 15px;
   background-color: rgba(255, 255, 255, 0.9);
   position: absolute;
-  -webkit-animation: myfirst random(10)s infinite;
-  animation: myfirst random(10)s infinite;
-}
+  -webkit-animation: myfirst 202ms infinite;
+  animation: myfirst 202ms infinite; }
 
 @-webkit-keyframes myfirst {
   0% {
-    top: 0%;
-  }
+    top: 0%; }
 
   100% {
-    top: 100%;
-  }
-}
-
+    top: 100%; } }
 @keyframes myfirst {
   0% {
-    top: 0%;
-  }
+    top: 0%; }
 
   100% {
-    top: 100%;
-  }
-}
+    top: 100%; } }

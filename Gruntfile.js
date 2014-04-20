@@ -12,40 +12,28 @@ module.exports = function(grunt) {
 			}
 		},
 		watch: {
-			scss: {
-				files: ['scss/**/*.scss'],
-				tasks: ['sass']
-			},
-			html: {
-				files: ['index.html'],
-				options: {
-					livereload: true,
-				}
+			options: {
+				livereload: true
 			},
 			css: {
-				files: ['css/*.css'],
+				files: ['scss/*.scss'],
+				tasks: ['sass']
+			}
+		},
+		sass: {
+			dist: {
 				options: {
-					livereload: true,
+					compass: true
+				},
+				files: {
+					'css/main.css': 'scss/main.scss'
 				}
 			}
-			},
-			sass:{ 
-    			dist: {
-     				 options: { 
-       					style: 'expanded',
-						compass: true		
-     				 },
-      			files:{ 
-      			  'css/main.css': 'scss/main.scss',
-     			 }
-			    }
-			  }
+		}
 	});
 
-	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.loadNpmTasks('grunt-contrib-compass');
+	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-sass');
-
-	grunt.registerTask('default', ['connect', 'watch']);
+	grunt.registerTask('default', ['connect', 'watch', 'sass']);
 };

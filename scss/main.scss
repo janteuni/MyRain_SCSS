@@ -1,23 +1,28 @@
 @import "compass/css3";
 
-
 $i: 1;
 $j: 1;
 
-body{
-	background-color: blue;
+body {
+	overflow: hidden;
+	background-color: rgba(blue, .4);
 }
 
-@while $i < 100{
+@while $i < 100 {
 	  .goutte#{$i} {
 		left: 0em + $i;
 		top: 1em;
 		width: 3px;
 		height: 15px;
+//		@include border-radius(2px);
 		background-color: rgba(white, .9);
 		position: absolute;
-		-webkit-animation: myfirst random(10) + s infinite;
-		animation: myfirst random(10) + s infinite;
+		@if ($j > 7){
+			$j: 0;
+		}
+		$x : random(900);
+		-webkit-animation: myfirst #{ $x }ms infinite;
+		animation: myfirst #{ $x }ms infinite;
 		$j: $j + 1;
 	}
 	$i: $i + 1;
