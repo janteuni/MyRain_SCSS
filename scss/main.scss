@@ -21,7 +21,7 @@ body {
 	border-color: transparent #007bff red #007bff ;
 }
 
-#bocal{
+#bocal {
 	width: 900px;
 	height: 900px;
 	margin: 0 auto;
@@ -31,7 +31,26 @@ body {
 	position: relative;
 }
 
-#socle{
+#verre {
+	position: absolute;
+	width: 900px;
+	height: 900px;
+	margin: 0 auto;
+	@include border-radius(450px);
+//	background-color: rgba(blue, .1);
+	@include background-image(linear-gradient(rgba(blue, .1), rgba(blue, .5)));
+}
+
+#ouverture {
+	position: absolute;
+	width: 400px;
+	height: 90px;
+	background-color: white;
+	left: 250px;
+	@include border-radius(100%);
+}
+
+#socle {
 	position: absolute;
 	height: 50px;
 	width: 800px;
@@ -40,7 +59,7 @@ body {
 	background-color: white;
 }
 
-#couv{
+#couv {
 	position: absolute;
 	height: 150px;
 	width: 820px;
@@ -49,7 +68,7 @@ body {
 	background-color: white;
 }
 
-.wave{
+.wave {
 	position: absolute;
 	width: 100px;
 	height: 100px;
@@ -59,7 +78,7 @@ body {
 	@include border-radius(100%);
 }
 
-.wave1{
+.wave1 {
 	position: absolute;
 	width: 140px;
 	height: 150px;
@@ -93,8 +112,8 @@ body {
 	position: absolute;
 	width: 100px;
 	height: 100px;
-	top: 100px;
-	left: 340px;
+	top: 120px;
+	left: 435px;
 	background-color: white;
 	@include border-radius(100%);
 }
@@ -109,6 +128,37 @@ body {
 	background-color: white;
 	@include border-radius(100%);
 }
+
+.wave6{
+	position: absolute;
+	width: 150px;
+	height: 100px;
+	top: 120px;
+	left: 530px;
+	background-color: white;
+	@include border-radius(50% 100%);
+}
+
+.cach{
+	position: absolute;
+	width: 180px;
+	height: 110px;
+	top: 92px;
+	left: 648px;
+	background-color: white;
+	@include border-radius(1000% 50%);
+}
+
+.wave7{
+	position: absolute;
+	width: 150px;
+	height: 100px;
+	top: 161px;
+	left: 648px;
+	background-color: #9D99E3;
+	@include border-radius(1000% 50%);
+}
+
 
 //  SCSS FOr index.html
 
