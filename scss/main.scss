@@ -14,22 +14,41 @@ body {
 // SCSS FOr fish
 
 .poisson {
-	margin: 100px;
-	position: relative;
 	height: 100px;
 	width: 150px;
+	position: relative;
+	top: 500px;
+	left: 100px;
 	@include border-radius(100%);
+	-webkit-animation: mymove 6000ms infinite;
+	animation: mymove 6000ms infinite;
 }
 
-#corps {
+.corps {
 	position: absolute;
-	height: 100px;
-	width: 150px;
 	top: 0px;
 	left: 0px;
+	height: 100px;
+	width: 150px;
 	@include border-radius(100%);
 	@include background-image(linear-gradient(left, #FF6060 75%, red));
 }
+
+@-webkit-keyframes mymove
+{
+	0%   {	left: 100px;}
+	50% {	left: 650px;
+			-webkit-transform: rotateY(-180deg);
+			}
+	100% { left: 100px}
+}
+
+@keyframes mymove
+{
+	0%   {left: 100px;}
+	100%  {left: 600px;}
+}
+
 
 #eyes {
 	position: absolute;
@@ -79,7 +98,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 25px 0  10px 55px;
-	border-color: transparent transparent transparent white;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 .nag-bas {
@@ -100,7 +119,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 25px 0  10px 55px;
-	border-color: transparent transparent transparent white;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 
@@ -112,7 +131,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 5px 0  10px 45px;
-	border-color: transparent transparent transparent white ;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 .tria{
@@ -123,7 +142,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 2px 0  10px 45px;
-	border-color: transparent transparent transparent white;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 .trib{
@@ -134,7 +153,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 4px 0  10px 45px;
-	border-color: transparent transparent transparent white;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 
@@ -146,7 +165,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 2px 0  10px 45px;
-	border-color: transparent transparent transparent white;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 .tri2{
@@ -157,7 +176,7 @@ body {
 	height: 0px;
 	border-style: solid;
 	border-width: 4px 0  10px 45px;
-	border-color: transparent transparent transparent white;
+	border-color: transparent transparent transparent #9D99E3;
 }
 
 
